@@ -22,7 +22,6 @@ public class Main {
 
         Farm interactions = new Farm();
 
-
         
 
         List<String> animalsNameList = new ArrayList<>();
